@@ -1,10 +1,9 @@
 <html>
 <head>
 <title>Bienvenidos a la primer pagina de vivi no se lo que hago ,pero luzco bien haciendolo...</title>
-</title>
 </head>
 <body>
-<p>Bienvenidos a mi primer pagina vivi </p>
+<p>Bienvenidos a mi primer pagina ,le meti ganas,tiempo y desesperación... </p>
 <img src="C:\Users\herre\OneDrive\Desktop/20251216_114138.jpg"width="201"height="308"alt="imagen personal"/>
 </body>
 </html>
